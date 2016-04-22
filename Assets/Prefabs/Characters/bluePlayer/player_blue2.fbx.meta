@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: 91aaaa4e788ab6a409e112745137a537
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature_002
+    100002: Blue_Player
+    100004: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head
+    100006: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head_0
+    100008: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_HeadTop_En
+    100010: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_HeadTop_En_0
+    100012: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips
+    100014: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0
+    100016: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm
+    100018: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0
+    100020: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot
+    100022: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot_0
+    100024: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr
+    100026: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0
+    100028: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_001
+    100030: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_002
+    100032: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_003
+    100034: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_004
+    100036: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_005
+    100038: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_006
+    100040: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_007
+    100042: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_008
+    100044: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_009
+    100046: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_010
+    100048: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_011
+    100050: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_012
+    100052: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_013
+    100054: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_014
+    100056: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_015
+    100058: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_10
+    100060: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_11
+    100062: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_12
+    100064: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_13
+    100066: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_14
+    100068: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_15
+    100070: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_16
+    100072: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_2
+    100074: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_3
+    100076: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_4
+    100078: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_5
+    100080: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_6
+    100082: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_7
+    100084: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_8
+    100086: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_9
+    100088: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand
+    100090: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0
+    100092: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn
+    100094: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0
+    100096: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi
+    100098: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0
+    100100: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi
+    100102: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0
+    100104: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi
+    100106: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0
+    100108: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh
+    100110: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0
+    100112: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg
+    100114: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0
+    100116: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould
+    100118: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0
+    100120: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToe_En
+    100122: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToe_En_0
+    100124: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas
+    100126: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas_0
+    100128: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg
+    100130: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0
+    100132: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck
+    100134: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck_0
+    100136: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_polySu_001
+    100138: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm
+    100140: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0
+    100142: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot
+    100144: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot_0
+    100146: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA
+    100148: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0
+    100150: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_001
+    100152: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_002
+    100154: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_003
+    100156: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_004
+    100158: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_005
+    100160: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_006
+    100162: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_007
+    100164: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_008
+    100166: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_009
+    100168: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_010
+    100170: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_011
+    100172: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_012
+    100174: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_013
+    100176: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_014
+    100178: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_015
+    100180: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_10
+    100182: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_11
+    100184: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_12
+    100186: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_13
+    100188: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_14
+    100190: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_15
+    100192: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_16
+    100194: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_2
+    100196: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_3
+    100198: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_4
+    100200: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_5
+    100202: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_6
+    100204: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_7
+    100206: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_8
+    100208: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_9
+    100210: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand
+    100212: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0
+    100214: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI
+    100216: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0
+    100218: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM
+    100220: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0
+    100222: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP
+    100224: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0
+    100226: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR
+    100228: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0
+    100230: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT
+    100232: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0
+    100234: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg
+    100236: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0
+    100238: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul
+    100240: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0
+    100242: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToe_E
+    100244: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToe_E_0
+    100246: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa
+    100248: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa_0
+    100250: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg
+    100252: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0
+    100254: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine
+    100256: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1
+    100258: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2
+    100260: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3
+    100262: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4
+    100264: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0
+    100266: Esqueleto_blue
+    100268: //RootNode
+    400000: Armature_002
+    400002: Blue_Player
+    400004: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head
+    400006: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head_0
+    400008: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_HeadTop_En
+    400010: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_HeadTop_En_0
+    400012: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips
+    400014: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0
+    400016: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm
+    400018: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0
+    400020: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot
+    400022: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot_0
+    400024: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr
+    400026: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0
+    400028: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_001
+    400030: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_002
+    400032: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_003
+    400034: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_004
+    400036: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_005
+    400038: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_006
+    400040: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_007
+    400042: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_008
+    400044: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_009
+    400046: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_010
+    400048: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_011
+    400050: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_012
+    400052: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_013
+    400054: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_014
+    400056: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_015
+    400058: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_10
+    400060: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_11
+    400062: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_12
+    400064: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_13
+    400066: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_14
+    400068: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_15
+    400070: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_16
+    400072: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_2
+    400074: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_3
+    400076: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_4
+    400078: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_5
+    400080: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_6
+    400082: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_7
+    400084: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_8
+    400086: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_9
+    400088: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand
+    400090: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0
+    400092: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn
+    400094: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0
+    400096: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi
+    400098: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0
+    400100: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi
+    400102: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0
+    400104: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi
+    400106: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0
+    400108: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh
+    400110: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0
+    400112: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg
+    400114: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0
+    400116: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould
+    400118: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0
+    400120: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToe_En
+    400122: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToe_En_0
+    400124: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas
+    400126: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas_0
+    400128: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg
+    400130: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0
+    400132: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck
+    400134: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck_0
+    400136: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_polySu_001
+    400138: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm
+    400140: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0
+    400142: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot
+    400144: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot_0
+    400146: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA
+    400148: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0
+    400150: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_001
+    400152: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_002
+    400154: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_003
+    400156: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_004
+    400158: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_005
+    400160: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_006
+    400162: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_007
+    400164: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_008
+    400166: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_009
+    400168: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_010
+    400170: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_011
+    400172: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_012
+    400174: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_013
+    400176: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_014
+    400178: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_015
+    400180: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_10
+    400182: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_11
+    400184: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_12
+    400186: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_13
+    400188: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_14
+    400190: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_15
+    400192: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_16
+    400194: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_2
+    400196: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_3
+    400198: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_4
+    400200: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_5
+    400202: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_6
+    400204: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_7
+    400206: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_8
+    400208: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_9
+    400210: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand
+    400212: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0
+    400214: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI
+    400216: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0
+    400218: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM
+    400220: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0
+    400222: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP
+    400224: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0
+    400226: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR
+    400228: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0
+    400230: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT
+    400232: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0
+    400234: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg
+    400236: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0
+    400238: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul
+    400240: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0
+    400242: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToe_E
+    400244: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToe_E_0
+    400246: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa
+    400248: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa_0
+    400250: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg
+    400252: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0
+    400254: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine
+    400256: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1
+    400258: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2
+    400260: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3
+    400262: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4
+    400264: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0
+    400266: Esqueleto_blue
+    400268: //RootNode
+    4300000: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_polySu_001
+    4300002: Blue_Player
+    7400000: move
+    7400002: walk_02
+    7400004: walk_basic
+    7400006: idle
+    9500000: //RootNode
+    13700000: Blue_Player
+    13700002: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_polySu_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Default Take' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'walk_02' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'walk_basic' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: move
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_002
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToe_En
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToe_E
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_004
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_004/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_005
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_004/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_005/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_006
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_007
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_007/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_008
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_007/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_008/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_009
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_013
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_013/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_014
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_013/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_014/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_015
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_010
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_010/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_011
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_010/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_011/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_012
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_001
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_001/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_002
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_001/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_003
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_HeadTop_En
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_004
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_004/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_005
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_004/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_005/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_006
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_007
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_007/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_008
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_007/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_008/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_009
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_013
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_013/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_014
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_013/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_014/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_015
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_010
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_010/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_011
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_010/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_011/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_012
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_001
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_001/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_002
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_001/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_003
+        weight: 1
+      - path: Blue_Player
+        weight: 1
+      - path: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_polySu_001
+        weight: 1
+      - path: Esqueleto_blue
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToe_En_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToe_E_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_5
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_5/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_6
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_5/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_6/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_7
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_8
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_8/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_9
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_8/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_9/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_10
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_14
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_14/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_15
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_14/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_15/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_16
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_11
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_11/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_12
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_11/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_12/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_13
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_2
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_3
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_4
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_HeadTop_En_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_5
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_5/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_6
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_5/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_6/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_7
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_8
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_8/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_9
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_8/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_9/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_10
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_14
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_14/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_15
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_14/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_15/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_16
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_11
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_11/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_12
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_11/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_12/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_13
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_2
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_3
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_002
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToe_En
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToe_E
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_004
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_004/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_005
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_004/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_005/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_006
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_007
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_007/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_008
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_007/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_008/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_009
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_013
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_013/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_014
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_013/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_014/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_015
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_010
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_010/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_011
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_010/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_011/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_012
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_001
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_001/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_002
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_001/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_003
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_HeadTop_En
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_004
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_004/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_005
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_004/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_005/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_006
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_007
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_007/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_008
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_007/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_008/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_009
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_013
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_013/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_014
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_013/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_014/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_015
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_010
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_010/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_011
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_010/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_011/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_012
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_001
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_001/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_002
+        weight: 1
+      - path: Armature_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine1/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_001/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_002/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_003
+        weight: 1
+      - path: Blue_Player
+        weight: 1
+      - path: Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_polySu_001
+        weight: 1
+      - path: Esqueleto_blue
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftFoot_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToeBas_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftToe_En_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightUpLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightLeg_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightFoot_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToeBa_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightToe_E_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_5
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_5/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_6
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandIn_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_5/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_6/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_7
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_8
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_8/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_9
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandMi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_8/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_9/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_10
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_14
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_14/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_15
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandPi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_14/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_15/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_16
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_11
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_11/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_12
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandRi_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_11/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_12/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_13
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_2
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_3
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftShould_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftForeAr_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHandTh_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_LeftHa_4
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Neck_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Head_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_HeadTop_En_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_5
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_5/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_6
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandI_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_5/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_6/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_7
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_8
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_8/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_9
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandM_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_8/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_9/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_10
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_14
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_14/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_15
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandP_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_14/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_15/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_16
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_11
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_11/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_12
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandR_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_11/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_12/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_13
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_2
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_3
+        weight: 1
+      - path: Esqueleto_blue/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Hips_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_Spine4/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightShoul_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightArm_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightForeA_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHand_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightHandT_0/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_2/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_3/Blue_Player_H_M_A_nickZ_L1_Group38670_H_M_A_nickZ_L1_RightH_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
